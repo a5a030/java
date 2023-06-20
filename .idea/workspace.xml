@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d495d747-ca4c-4000-90d6-7c543da6385d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch01/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch04/BinaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch06/VariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch07/DoubleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch08/CharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch09/LocalVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch10/ConstantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch10/TypeConversationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch11/OperatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch12/LogicalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch13/BitOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch13/ConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch14/IfElseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch15/IfElseIfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch16/SwitchCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch17/WhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch18/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch19/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch20/NestedLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch21/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch21/ContinueTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RSesAb1R6PmxJb0gFH4t76RA6y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sum/Documents/Java",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.Part1.ch21.ContinueTest">
+    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch21.BreakTest" />
+      <module name="Fast_Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch21.ContinueTest" />
+      <module name="Fast_Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19.ForTest" />
+      <module name="Fast_Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch20.NestedLoopTest" />
+      <module name="Fast_Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part1.ch21.ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1.ch21.ContinueTest" />
+      <module name="Fast_Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1.ch21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Part1.ch21.ContinueTest" />
+        <item itemvalue="애플리케이션.ContinueTest" />
+        <item itemvalue="애플리케이션.BreakTest" />
+        <item itemvalue="애플리케이션.NestedLoopTest" />
+        <item itemvalue="애플리케이션.ForTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d495d747-ca4c-4000-90d6-7c543da6385d" name="변경" comment="" />
+      <created>1687248113484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687248113484</updated>
+      <workItem from="1687248115879" duration="12215000" />
+      <workItem from="1687268951433" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Part1/ch08/CharacterTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
