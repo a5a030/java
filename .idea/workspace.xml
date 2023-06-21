@@ -4,40 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d495d747-ca4c-4000-90d6-7c543da6385d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch01/HelloJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch04/BinaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch06/VariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch07/DoubleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch08/CharacterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch09/LocalVariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch10/ConstantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch10/TypeConversationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch11/OperatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch12/LogicalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch13/BitOperationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch13/ConditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch14/IfElseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch15/IfElseIfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch16/SwitchCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch17/WhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch18/DoWhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch19/ForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch20/NestedLoopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch21/BreakTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part1/ch21/ContinueTest.java" afterDir="false" />
+    <list default="true" id="d495d747-ca4c-4000-90d6-7c543da6385d" name="변경" comment="Upload">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch02/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch02/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch03/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch04/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch06/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch07/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch07/UserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch08/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch08/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch08/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch08/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch09/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch09/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch09/SubjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch10/BirthDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch10/BirthDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch11/MakeReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch11/MakeReportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch12/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch14/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch14/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch14/Subway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch14/TakeTransTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch14/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch16/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch16/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch18/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch18/CompanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch19/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch19/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch19/CarFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch20/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch20/CharArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch21/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch21/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch22/TwoDimensionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch23/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch24/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch24/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ch24/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -63,7 +75,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RSesAb1R6PmxJb0gFH4t76RA6y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -73,20 +87,31 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "/Users/sum/Documents/Java",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "문제",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Part1.ch21.ContinueTest">
-    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.BreakTest" />
-      <module name="Fast_Java.main" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Part2.ch06" />
+      <recent name="Part2.ch04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.ArrayListTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.ch23.ArrayListTest" />
+      <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch21.*" />
+          <option name="PATTERN" value="Part2.ch23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.ContinueTest" />
-      <module name="Fast_Java.main" />
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.ch20.ArrayTest" />
+      <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch21.*" />
+          <option name="PATTERN" value="Part2.ch20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch19.ForTest" />
-      <module name="Fast_Java.main" />
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.ch21.BookTest" />
+      <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch19.*" />
+          <option name="PATTERN" value="Part2.ch21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch20.NestedLoopTest" />
-      <module name="Fast_Java.main" />
+    <configuration name="CharArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.ch20.CharArrayTest" />
+      <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch20.*" />
+          <option name="PATTERN" value="Part2.ch20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Part1.ch21.ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part1.ch21.ContinueTest" />
-      <module name="Fast_Java.main" />
+    <configuration name="TwoDimensionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.ch22.TwoDimensionTest" />
+      <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part1.ch21.*" />
+          <option name="PATTERN" value="Part2.ch22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Part1.ch21.ContinueTest" />
-        <item itemvalue="애플리케이션.ContinueTest" />
-        <item itemvalue="애플리케이션.BreakTest" />
-        <item itemvalue="애플리케이션.NestedLoopTest" />
-        <item itemvalue="애플리케이션.ForTest" />
+        <item itemvalue="애플리케이션.ArrayListTest" />
+        <item itemvalue="애플리케이션.TwoDimensionTest" />
+        <item itemvalue="애플리케이션.BookTest" />
+        <item itemvalue="애플리케이션.CharArrayTest" />
+        <item itemvalue="애플리케이션.ArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -165,8 +190,17 @@
       <option name="presentableId" value="Default" />
       <updated>1687248113484</updated>
       <workItem from="1687248115879" duration="12215000" />
-      <workItem from="1687268951433" duration="22000" />
+      <workItem from="1687268951433" duration="2835000" />
+      <workItem from="1687322937701" duration="17374000" />
     </task>
+    <task id="LOCAL-00001" summary="Upload">
+      <created>1687269154662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687269154662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +216,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
