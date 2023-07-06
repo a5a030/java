@@ -5,65 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d495d747-ca4c-4000-90d6-7c543da6385d" name="변경" comment="Upload">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch02/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch02/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch02/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch03/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch03/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch03/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch04/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch04/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch04/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch06/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch06/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch06/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch06/GoldCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch06/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch08/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch09/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch09/ComputerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch09/DeskTop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch09/MyNoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch09/NoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch10/AICar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch10/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch10/ManualCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch11/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch11/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch11/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch11/CompleteCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch13/domain/userinfo/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch13/domain/userinfo/dao/UserInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch13/domain/userinfo/dao/mysql/UserInfoMysqlDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch13/domain/userinfo/dao/oracle/UserInfoOracleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch13/web/userinfo/UserInfoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch14/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch14/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch14/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch14/CompleteCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch15/BookShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch15/BookShelfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch15/Buy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch15/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch15/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch15/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch15/Sell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch15/Shelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/game/AdvancedLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/game/BeginnerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/game/PlayGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/game/PlayerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/game/SuperLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/policy/LeastJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/policy/PriorityAllocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/policy/RoundRobin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/policy/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/ch16/policy/SchedulerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part4/ch01/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part4/ch02/EqualsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part4/ch02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part4/ch03/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part4/ch03/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part4/ch04/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part4/ch04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part4/ch04/StringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,13 +92,13 @@
       <recent name="Part3.ch13.domain.userinfo.dao.oracle" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.SchedulerTest">
-    <configuration name="BookShelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3.ch15.BookShelfTest" />
+  <component name="RunManager" selected="애플리케이션.ClassTest">
+    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part4.ch04.ClassTest" />
       <module name="Fast_Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part3.ch15.*" />
+          <option name="PATTERN" value="Part4.ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Part3.ch14.CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3.ch14.CalcTest" />
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part4.ch02.EqualsTest" />
       <module name="Fast_Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part3.ch14.*" />
+          <option name="PATTERN" value="Part4.ch02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Part3.ch15.CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3.ch15.CustomerTest" />
+    <configuration name="Part4.ch04.StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part4.ch04.StringTest" />
       <module name="Fast_Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part3.ch15.*" />
+          <option name="PATTERN" value="Part4.ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3.ch16.game.PlayGame" />
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part4.ch03.StringBuilderTest" />
       <module name="Fast_Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part3.ch16.game.*" />
+          <option name="PATTERN" value="Part4.ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3.ch16.policy.SchedulerTest" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part4.ch03.StringTest" />
       <module name="Fast_Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part3.ch16.policy.*" />
+          <option name="PATTERN" value="Part4.ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.SchedulerTest" />
-        <item itemvalue="애플리케이션.Part3.ch16.game.PlayGame" />
-        <item itemvalue="애플리케이션.BookShelfTest" />
-        <item itemvalue="애플리케이션.Part3.ch15.CustomerTest" />
-        <item itemvalue="애플리케이션.Part3.ch14.CalcTest" />
+        <item itemvalue="애플리케이션.ClassTest" />
+        <item itemvalue="애플리케이션.Part4.ch04.StringTest" />
+        <item itemvalue="애플리케이션.StringBuilderTest" />
+        <item itemvalue="애플리케이션.StringTest" />
+        <item itemvalue="애플리케이션.EqualsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +180,7 @@
       <workItem from="1687268951433" duration="2835000" />
       <workItem from="1687322937701" duration="18125000" />
       <workItem from="1687417235076" duration="3365000" />
-      <workItem from="1688544997349" duration="18930000" />
+      <workItem from="1688544997349" duration="23596000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1687269154662</created>
@@ -247,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687360980011</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upload">
+      <created>1688637087544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688637087544</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
